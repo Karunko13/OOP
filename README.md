@@ -1,3 +1,3 @@
 # OOP
-Objected Oriented Programming course, 4th term
+Objected Oriented Programming course(c++), 4th term
 All laboratories
