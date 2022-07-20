@@ -1,3 +1,2 @@
 # OOP
-Objected Oriented Programming course(c++), 4th term
-All laboratories
+Labs written during Objected Oriented Programming course (cpp). AGH, WFiIS, Applied Computer Science.
